@@ -5,6 +5,6 @@
 #### Original [Repo](https://github.com/ntua/TL19-62)
 
 #### Collaborators:
-###### [Panos Misiakos](https://github.com/pmisiakos)
-###### [Orestis Batsis](https://github.com/obatsis)
-###### [Marilena De Pian](https://github.com/marilenadp)
+###### - [Panos Misiakos](https://github.com/pmisiakos)
+###### - [Orestis Batsis](https://github.com/obatsis)
+###### - [Marilena De Pian](https://github.com/marilenadp)
