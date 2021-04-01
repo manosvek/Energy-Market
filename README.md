@@ -1,9 +1,9 @@
 # Energy Market
 Λογισμικό που αφορά την ελεύθερη αγορά Ενέργειας.
 Το λογισμικό αυτό περιλαμβάνει *Restful API, Command-Line Interface* και *Web Front End*. Για περισσότερες πληροφορίες της εκάστοτε μονάδας πλοηγούμαστε στον αντίστοιχο φάκελο.
-</br>
+
 #### Original [Repo](https://github.com/ntua/TL19-62)
-</br>
+
 #### Collaborators:
 ###### [Panos Misiakos](https://github.com/pmisiakos)
 ###### [Orestis Batsis](https://github.com/obatsis)
